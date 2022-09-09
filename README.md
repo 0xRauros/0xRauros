@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aritz</h1>
 <h3 align="center">Professional cofee drinker and occasional programmer ;)</h3>
 
+<br>
+<br>
+
 - 🔭 I’m currently working on industrial software development 
 
 - 🌱 I’m currently learning **Rust and ARM Assembly**
@@ -13,7 +16,7 @@
 
 - 📰 Personal portfolio **https://0xrauros.github.io/Portfolio/**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
