@@ -2,7 +2,6 @@
 <h3 align="center">Professional cofee drinker and occasional programmer ;)</h3>
 
 <br>
-<br>
 
 - 🔭 I’m currently working on industrial software development 
 
