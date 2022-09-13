@@ -5,13 +5,7 @@
 
 - 🔭 I’m currently working on industrial software development 
 
-- 🌱 I’m currently learning **Rust and ARM Assembly**
-
-- 💬 You can ask me about life and crossing deserts
-
-- 🏴‍☠️ I'm interested in **emulators development, RFID, Software defined radio and pirates!**
-
-- 📫 How to reach me: Bat-signal in the night
+- 🏴‍☠️ I'm interested in **Emulators, RFID, Software Defined Radio and pirates!**
 
 - 📰 Personal portfolio **https://0xrauros.github.io/Portfolio/**
 
