@@ -9,6 +9,10 @@
 
 - 📰 Personal portfolio **https://0xrauros.github.io/Portfolio/**
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xrauros&layout=compact"/>
+
 
 <p align="left">
 </p>
