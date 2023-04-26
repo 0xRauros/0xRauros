@@ -3,9 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on industrial software development 
-
-- 🏴‍☠️ I'm interested in **Emulators, RFID, Software Defined Radio, and 3D graphics development**
+- 🔭 I’m currently learning Django!
 
 - 📰 Personal portfolio **https://0xrauros.github.io/Portfolio/**
 
