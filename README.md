@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently learning Django!
+- 🔭 I’m currently learning Django and Rust!
 
 - 📰 Personal portfolio **https://0xrauros.github.io/Portfolio/**
 
