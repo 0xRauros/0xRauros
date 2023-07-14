@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rauros</h1>
-<h3 align="center">Professional cofee drinker and occasional programmer ;)</h3>
+<h3 align="center">First I drink coffee, then I may code</h3>
 
 <br>
 
