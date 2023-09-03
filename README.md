@@ -1,20 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rauros</h1>
-<h3 align="center">First I drink coffee, then I may code</h3>
+<h3 align="center">Hello there! I'm Aritz</h3>
 
-<br>
+## 📝 About me
 
-- 🔭 I’m currently using Django and React!
-
-- 📰 Personal portfolio **https://0xrauros.github.io/Portfolio/**
-
-<br>
-
-
-
-<p align="left">
-</p>
-
-
-
-
+* 🤙 Software developer and super professional coffee drinker.
+* 🔭 Lately I've been using Python, Django, React and some Rust.
+* 📖 Last reading: "Speed up your Python with Rust" (Book)
+  
 
