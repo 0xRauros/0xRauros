@@ -4,6 +4,6 @@
 * Professional rock climber, alpinist and software developer
 * Free surfer and skater
 * I don't have social media
-* When I'm not surfing waves I'm surfing the web 😊
+* "I died for beauty..."
 
 
