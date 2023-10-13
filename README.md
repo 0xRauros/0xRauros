@@ -2,7 +2,7 @@
 
 ## 📝 About me
 * Professional rock climber, alpinist and software developer
-* Surf and Skate as Hobby
+* Free surfer and skater
 * I don't have social media
 * When I'm not surfing waves I'm surfing the web 😊
 
